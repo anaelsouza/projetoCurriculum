@@ -1,7 +1,7 @@
 # projetoCurriculum
 
-Nesse projeto está um pouco de prática do dia de hoje, com HTML e CSS.
+In this project is a little practice for today, with HTML and CSS.
 
-Confesso que está sendo algo desafiador e inovador para mim, estou admirando a área já!! Evoluindo devagar.
+I confess that it's been something challenging and innovative for me, I'm already admiring the area!! Evolving slowly.
 
-link do Projeto Prático: https://projetocurriculum.netlify.app/
+Practical Project link: https://projetocurriculum.netlify.app/
